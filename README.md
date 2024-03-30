@@ -1,4 +1,4 @@
-<img width="485" alt="image" src="https://github.com/mmyas/MHD-Simulation-for-solar-and-stellar-winds/assets/165456825/0ffba482-9f5b-4b09-985e-125a41e8387d"># MHD-Simulation-for-solar-and-stellar-winds
+# MHD-Simulation-for-solar-and-stellar-winds
 
 The codes are written in Fortran90. To compile, please type
 
